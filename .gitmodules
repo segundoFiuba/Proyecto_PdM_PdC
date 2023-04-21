@@ -1,0 +1,3 @@
+[submodule "PdM_SegundoMA"]
+	path = PdM_SegundoMA
+	url = https://github.com/segundoFiuba/PdM_SegundoMA.git
